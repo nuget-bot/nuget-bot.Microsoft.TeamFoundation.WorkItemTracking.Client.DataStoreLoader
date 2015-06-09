@@ -8,7 +8,7 @@
     <projectUrl>https://msdn.microsoft.com/en-us/library/microsoft.teamfoundation.workitemtracking.client.aspx</projectUrl>
     <licenseUrl>https://msdn.microsoft.com/en-us/library/microsoft.teamfoundation.workitemtracking.client.aspx</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader</description>
+    <description>The Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader namespace</description>
     <copyright>© Microsoft Corporation. All rights reserved.</copyright>
     <tags>Microsoft TeamFoundation WorkItemTracking Client DataStoreLoader nuget-bot</tags>
     <dependencies></dependencies>
